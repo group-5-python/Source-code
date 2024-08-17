@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1bpd31rMJvHdWxHxrFGs0MSB-n0XX5Ldj
 """
 
+
 # Data manipulation and analysis
 import pandas as pd
 import numpy as np
@@ -360,3 +361,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+streamlit run mazenogilzene(1).py
