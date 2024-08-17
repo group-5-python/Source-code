@@ -362,4 +362,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-streamlit run mazenogilzene(1).py
+streamlit run mazenogilzene (1).py
